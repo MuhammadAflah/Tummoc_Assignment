@@ -1,0 +1,51 @@
+.google_login {
+  /* border: 1px solid red; */
+  width: 20%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin-top: 15px;
+  box-sizing: border-box;
+}
+
+.user_detail_form {
+  width: 80%;
+  margin: auto;
+  margin-top: 100px;
+}
+
+.user_detail_form > input {
+  margin: 5px;
+  width: 32%;
+  height: 3rem;
+}
+
+.submit {
+  width: 100%;
+  margin-left: 10%;
+  margin-top: 10px;
+  height: 3rem;
+  width: 80%;
+
+}
+
+.table_div {
+  width: 80%;
+  margin: auto;
+  margin-top: 50px;
+  border: 1px solid red;
+  justify-content: center;
+}
+
+.table_div td {
+  border: 1px solid salmon;
+  width: 5%;
+}
+
+.g_login_img {
+  width: 80%;
+  /* margin: auto; */
+  margin-left: 10%;
+  /* border: 1px solid darkblue; */
+}
